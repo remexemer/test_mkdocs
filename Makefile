@@ -5,6 +5,10 @@ all: build
 build: clean
 	mkdocs build
 
+.phony: serve
+serve:
+	mkdocs serve
+
 .phony: deploy
 deploy:
 	mkdocs gh-deploy --force
