@@ -19,3 +19,8 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
 ## Add a Heading
 
     Add texts to test.
+
+## Test GitLab IO
+
+    Your documentation should shortly appear at 
+    https://<username>.gitlab.io/notes/test_mkdocs/
